@@ -1,0 +1,6 @@
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\bin\Debug\Composition_3.exe.config
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\bin\Debug\Composition_3.exe
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\bin\Debug\Composition_3.pdb
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\obj\Debug\Composition_3.csprojResolveAssemblyReference.cache
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\obj\Debug\Composition_3.exe
+c:\users\leno4ka\documents\visual studio 2015\Projects\Composition_3\Composition_3\obj\Debug\Composition_3.pdb

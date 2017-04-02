@@ -1,0 +1,6 @@
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\bin\Debug\Exeptions_1.exe.config
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\bin\Debug\Exeptions_1.exe
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\bin\Debug\Exeptions_1.pdb
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\obj\Debug\Exeptions_1.csprojResolveAssemblyReference.cache
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\obj\Debug\Exeptions_1.exe
+c:\users\leno4ka\documents\visual studio 2015\Projects\Exeptions_1\Exeptions_1\obj\Debug\Exeptions_1.pdb
