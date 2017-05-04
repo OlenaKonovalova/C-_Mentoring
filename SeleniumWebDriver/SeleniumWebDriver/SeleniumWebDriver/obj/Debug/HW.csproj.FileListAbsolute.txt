@@ -1,0 +1,23 @@
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\nunit.framework.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\nunit.framework.xml
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.xml
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.dll
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
+C:\Users\Leno4ka\documents\visual studio 2015\Projects\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\HW.csprojResolveAssemblyReference.cache
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\SeleniumWebDriver.pdb
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\nunit.framework.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\nunit.framework.xml
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.xml
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\bin\Debug\WebDriver.Support.xml
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.dll
+C:\Users\Olena_Konovalova\Desktop\SeleniumWebDriver\SeleniumWebDriver\SeleniumWebDriver\obj\Debug\SeleniumWebDriver.pdb
