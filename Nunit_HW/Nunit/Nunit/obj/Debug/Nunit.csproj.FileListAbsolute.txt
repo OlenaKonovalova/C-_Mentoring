@@ -1,0 +1,16 @@
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\bin\Debug\Nunit.dll
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\bin\Debug\Nunit.pdb
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\bin\Debug\nunit.framework.dll
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\bin\Debug\nunit.framework.xml
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\obj\Debug\Nunit.dll
+c:\users\olena_konovalova\documents\visual studio 2015\Projects\Nunit\Nunit\obj\Debug\Nunit.pdb
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\Nunit.dll
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\Nunit.pdb
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\nunit.framework.dll
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\WebDriver.dll
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\WebDriver.Support.dll
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\nunit.framework.xml
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\WebDriver.xml
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\bin\Debug\WebDriver.Support.xml
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\obj\Debug\Nunit.dll
+C:\Users\Leno4ka\Desktop\Nunit_HW\Nunit\Nunit\obj\Debug\Nunit.pdb
