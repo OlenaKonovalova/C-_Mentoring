@@ -1,0 +1,16 @@
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\SpecHT.dll.config
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\SpecHT.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\SpecHT.pdb
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\ImpromptuInterface.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\nunit.framework.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\WebDriver.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\WebDriver.Support.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\ImpromptuInterface.xml
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\nunit.framework.xml
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\WebDriver.xml
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\bin\Debug\WebDriver.Support.xml
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\obj\Debug\SpecHT.dll
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\obj\Debug\SpecHT.pdb
+C:\Users\Olena_Konovalova\documents\visual studio 2015\Projects\SpecHT\SpecHT\obj\Debug\SpecHT.csprojResolveAssemblyReference.cache
